@@ -147,3 +147,8 @@ x==========x]
 [2023-07-31 19:43:15,735: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
 
 x==========x]
+[2023-07-31 19:50:44,272: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-07-31 19:50:44,281: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-07-31 19:50:44,291: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-07-31 19:50:44,297: INFO: common: created directory at: artifacts]
+[2023-07-31 19:50:44,300: INFO: common: created directory at: artifacts/model_trainer]
